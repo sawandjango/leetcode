@@ -1,0 +1,12 @@
+Search in depth fist 
+
+Various algorithm uses it
+ - Minimum spanning tree
+ - Djikstra's shortest path 
+ - To detect cycle 
+ - Test : Bipartite 
+ - Topolical sort
+
+ Data structre - Stack 
+
+ 

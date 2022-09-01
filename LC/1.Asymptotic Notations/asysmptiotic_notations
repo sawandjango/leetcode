@@ -1,0 +1,29 @@
+1 < logn < n < nlogn < n² < n³ <......<  2Pow(n) < 3Pow(n) < npow(n)
+------------------------------           ------------------------------
+Plinomial Time complexity                 Exponential Time complexity 
+
+---- O(1) ---- 
+Inserting element in queue, list etc
+---- O(log) ---- 
+Binary search , AVL tree etc 
+---- O(n) ---- 
+Searching an element an array ,Finding maximum element an array or list
+---- O(nlogn) ---- 
+Merge sort, quick sort
+---- O(n²) ---- 
+Matrics, Graphs
+
+---- <  2Pow(n) < 3Pow(n) < npow(n) ----
+Exponential time complexity 
+
+--------------
+In above cases , we should consider n as large value not very small
+for example 
+n³ < 2Pn #n=2
+2*2*2   < 2*2 # Condition failed 
+
+-----------
+Ω -- Lower bound : Lower value
+Θ -- Tight bound : Exact time 
+O -- Upper bound : Upper value 
+
