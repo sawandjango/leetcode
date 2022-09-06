@@ -1,0 +1,28 @@
+Criteria of Analysis : 
+---------------------
+1. Number of comparisions 
+2. Number of swaps
+3. Adaptive : Already sorted - Minimum time : No swap required  
+4. Stable : Preserving the order of sorted elements
+5. Extra memory
+
+Sorting tecniques 
+Comparision based sorts:
+    O(n² ):
+        1. Bubble Sort 
+        2. Insertion Sort
+        3. Selection 
+    O(nlogn): 
+        4. Heap Sort
+        5. Merge Sort
+        6. Quick sort 
+        7. Tree Sort
+    O(n³/2) 
+    8. Shell Sort 
+
+Index based sorts: 
+    O(n): 
+        9. Count Sort 
+        10. Bucket/Bin Sort 
+        11. Radix Sort 
+
